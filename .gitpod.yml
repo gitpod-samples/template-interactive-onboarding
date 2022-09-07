@@ -1,4 +1,7 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
-  - name: Onboarding
+  - name: Onboarding one
     command: source onboard.sh
+  
+  - name: Onboarding two
+    command: source onboard_gum.sh
